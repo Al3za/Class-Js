@@ -31,5 +31,7 @@
    console.log(stud1.getage())
    console.log(stud1.getYear())
    console.log(stud1.getName())
+  //just a test console.log(stud1.getbase())
+
 
     
